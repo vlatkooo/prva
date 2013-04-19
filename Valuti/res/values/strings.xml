@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Valuti</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kursovi">Курсна листа на НБРМ</string>
+    <string name="btn_des">description</string>
+    <string name="download_title">Downloading</string>
+    <string name="download_description">Downloading Valuti</string>
+    <string name="site_valuti">http://localhost:9000/valuti/all</string>
+
+</resources>
